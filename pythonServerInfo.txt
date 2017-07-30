@@ -1,0 +1,6 @@
+
+> cd path/to/file/to/be/served
+> python -m SimpleHTTPServer 8888 &	# 2.x
+> python3 -m http.server 8888 &	  	# 3.x
+
+

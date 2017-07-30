@@ -1,0 +1,13 @@
+D3 Layouts:
+   Bundle	Chord	Cluster	Force	Histogram	Pack
+   Partition	Pie	Stack	Tree	Treemap		
+
+see
+   https://github.com/mbostock/d3/wiki/Gallery
+   https://github.com/mbostock/d3/wiki/Layouts
+
+
+Geo Projections in D3:
+   https://github.com/mbostock/d3/wiki/Geo-Porjections
+   see also:
+      http://bl.ocks.org/3711652
