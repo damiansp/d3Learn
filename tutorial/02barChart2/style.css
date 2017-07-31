@@ -1,0 +1,9 @@
+.chart3 rect {
+    fill: #CCCCFF;
+}
+
+.chart3 text {
+    fill: #000044;
+    font: 10px sans-serif;
+    text-anchor: end;
+}
